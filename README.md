@@ -1,13 +1,13 @@
 Ciquidus Alpha - 1.7.2
 ================
 
-The Chaincoin block explorer.
+The Alarmx block explorer.
 
 This project is a fork of [Iquidus Explorer](https://github.com/iquidus/explorer) so massive thanks go out to Luke Williams for his code! Thank you!!!
 
 ### See it in action
 
-*  [explorer.chaincoin.org](https://explorer.chaincoin.org)
+*  comming soon
 
 
 ### Requires
@@ -36,7 +36,7 @@ Create user with read/write access:
 
 ### Get the source
 
-    git clone https://github.com/suprnurd/ciquidus explorer
+    git clone https://github.com/alarmxcore/explorer explorer
 
 ### Install node modules
 
@@ -101,11 +101,6 @@ forcesync.sh and forcesynclatest.sh (located in scripts/) can be used to force t
 The wallet connected to Ciquidus must be running with atleast the following flags:
 
     -daemon -txindex
-
-### Donate
-    
-    CHC: CLkWg5YSLod772uLzsFRxHgHiWVGAJSezm
-    BTC: 1J8Chi5teDJrvBtSuQhioNCHfTNBCcCrPx
 
 ### Known Issues
 

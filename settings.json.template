@@ -5,15 +5,15 @@
 */
 {
   // name your instance!
-  "title": "CIQUIDUS",
+  "title": "Alarmx Block Explorer",
 
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Chaincoin",
+  "coin": "Alarmx",
 
   // coin symbol
-  "symbol": "CHC",
+  "symbol": "ALRMX",
 
   // logo
   "logo": "/images/chain_dark-128x128.png",
@@ -48,7 +48,7 @@
   "wallet": {
     "host": "localhost",
     "port": 11995,
-    "user": "chaincoinrpc",
+    "user": "rpcuser",
     "pass": "123gfjk3R3pCCVjHtbRde2s5kzdf233sa"
   },
 
@@ -94,7 +94,7 @@
   //supported markets: bittrex, poloniex, yobit, empoex, bleutrade, cryptopia, ccex, coinexchange
   //default market is loaded by default and determines last price in header
   "markets": {
-    "coin": "CHC",
+    "coin": "ALRMX",
     "exchange": "BTC",
     "enabled": ["cryptopia"],
     "cryptopia_id": "2186",
@@ -120,11 +120,11 @@
   },
 
   // twitter, facebook, googleplus, bitcointalk, github, slack, website
-  "twitter": "suprnurd",
+  "twitter": "twitterurl",
   "facebook": "yourfacebookpage",
   "googleplus": "yourgooglepluspage",
   "bitcointalk": "yourbitcointalktopicvalue",
-  "github": "yourgithubusername/yourgithubrepo",
+  "github": "alarmxcore",
   "slack": "yourfullslackinviteurl",
   "website": "yourfullwebsiteurl",
 
